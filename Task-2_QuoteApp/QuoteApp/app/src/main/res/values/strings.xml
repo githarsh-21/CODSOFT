@@ -1,0 +1,17 @@
+<resources>
+    <string name="no_favourites">No favourites yet. Save some quotes!</string>
+    <string name="quote_format">\u201C%1$s\u201D</string>
+    <string name="author_format">— %1$s</string>
+    <string name="share_format">\u201C%1$s\u201D\n— %2$s</string>
+    <string name="fav_item_format">\u201C%1$s\u201D  — %2$s</string>
+    <string name="app_name">QuoteApp</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="btn_save">♡ Save</string>
+    <string name="btn_saved">♥ Saved</string>
+    <string name="btn_share">↗ Share</string>
+    <string name="btn_new">↻ New Quote</string>
+    <string name="label_favourites">❤ Favourites</string>
+    <string name="saved_toast">Saved to favourites!</string>
+    <string name="removed_toast">Removed from favourites</string>
+    <string name="share_chooser">Share quote via</string>
+</resources>

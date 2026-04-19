@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">TodoApp</string>
+        <string name="my_to_do_list">My To-Do List</string>
+        <string name="add_task">+ Add Task</string>
+        <string name="delete">Delete</string>
+        <string name="app_title">★ Your Daily Planner</string>
+        <string name="lock_icon">🔒</string>
+        <string name="manage_your">Manage Your</string>
+        <string name="everyday_tasks">Everyday Tasks</string>
+        <string name="splash_subtext">Stay organized, hit your goals, and never miss a deadline again.</string>
+        <string name="get_started">Get Started →</string>
+</resources>
