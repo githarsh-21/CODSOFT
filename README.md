@@ -23,4 +23,4 @@ This repository contains all the tasks I completed during my **Android Developme
 2. Open the specific task folder in Android Studio
 3. Run the app on emulator or device
 
-Thank you Codsoft for this wonderful learning opportunity! 🚀
+Thank you Codsoft for this wonderful learning opportunity! 
