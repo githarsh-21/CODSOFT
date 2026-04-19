@@ -9,18 +9,14 @@ This repository contains all the tasks I completed during my **Android Developme
 - Technologies: Java , Android Studio, RecyclerView
 - [View Code](./Task-1_To-do-list%20app)
 
-### Screenshots
-![Favorites Screen](images/task1_favorites.png)
-![Remove Quote](images/task1_remove.png)
+[Watch Task 1 Demo](https://drive.google.com/file/d/1010bAxatZy3qxfm1vlcygkIftBRfBZSK/view?usp=sharing)
 
 ### Task 1: QuoteApp
 - Description: A QuoteApp which gives you quotes to keep you motivated and active ; we can also save , unsave and share the quotes in it .
 - Technologies: Java , Android Studio, RecyclerView
 - [View Code](./Task-2_QuoteApp%20app)
 
-### Screenshots
-![Favorites Screen](images/task1_favorites.png)
-![Remove Quote](images/task1_remove.png)
+[Watch Task 2 Demo](https://drive.google.com/file/d/1niQq6SmwcfwGTFnVQ4Yo7jFJeooLqtCq/view?usp=sharing)
 
 ## How to Run
 1. Clone the repository
